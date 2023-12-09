@@ -1,0 +1,12 @@
+insert into employee(id, name) values ('1', 'name 1');
+insert into employee(id, name) values ('2', 'name 2');
+insert into employee(id, name) values ('3', 'name 3');
+insert into employee(id, name) values ('4', 'name 4');
+insert into employee(id, name) values ('5', 'name 5');
+insert into employee(id, name) values ('6', 'name 6');
+insert into employee(id, name) values ('7', 'name 7');
+insert into employee(id, name) values ('8', 'name 8');
+insert into employee(id, name) values ('9', 'name 9');
+insert into employee(id, name) values ('10', 'name 10');
+insert into employee(id, name) values ('11', 'name 11');
+insert into employee(id, name) values ('12', 'name 12');
